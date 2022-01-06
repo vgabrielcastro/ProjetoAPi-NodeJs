@@ -2,7 +2,7 @@
 
 ### ALUNO: Vinicius Gabriel
 
-### PROFESSOR: Andre - Balta.oi
+### PROFESSOR: Andre - Balta.io
 
 
 ### Sumário
