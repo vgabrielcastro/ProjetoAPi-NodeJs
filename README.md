@@ -45,5 +45,3 @@ Neste curso vamos unir a popularidade das APIs com a popularidade do JavaScript 
 * Autenticação
 * Autorização
 * Habilitando CORS
-* Publicando a API
-
