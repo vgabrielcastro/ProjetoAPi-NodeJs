@@ -1,9 +1,5 @@
 # Criando APIs com NodeJs
 
-### ALUNO: Vinicius Gabriel
-
-### PROFESSOR: Andre - Balta.io
-
 
 ### Conteúdo Programático
 * Instalação Node, NPM e VS Code
