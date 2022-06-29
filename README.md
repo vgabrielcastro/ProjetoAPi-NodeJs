@@ -37,4 +37,4 @@
 * Upload da Imagem do Produto
 * Autenticação
 * Autorização
-* Habilitando CORS
+* Habilitando CORS 
